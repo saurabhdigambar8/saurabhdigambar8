@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **saurabhdigambar8@gmail.com**
 
-- 📄 Know about my experiences [saurabhdigambarresume.tiiny.site](saurabhdigambarresume.tiiny.site)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurabh-digambar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-digambar" height="30" width="40" /></a>
@@ -22,6 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhdigambar8&show_icons=true&locale=en&layout=compact" alt="saurabhdigambar8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhdigambar8&show_icons=true&locale=en" alt="saurabhdigambar8" /></p>
-
-
-
