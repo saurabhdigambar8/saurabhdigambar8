@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Digambar</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
+<img align = "right" alt = "coding" width= "400" src = "https://www.lambdatest.com/resources/images/news24.gif" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-mohit&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-mohit" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhdigambar8&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhdigambar8" /> </p>
 
